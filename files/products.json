@@ -1,0 +1,1293 @@
+{
+    "products": [
+        {
+            "type": "all",
+            "id": 0,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "oldPrice": "600",
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 1,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "кристализированный",
+                "color": "коричневый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-35%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 2,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "150"
+                },
+                {
+                    "price": "400"
+                },
+                {
+                    "price": "600"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "750"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 3,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "редкий",
+                "color": "желтый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 4,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "густая",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "600"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "350"
+                },
+                {
+                    "weighValue": "600"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 5,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                }
+            ],
+            "oldPrice": "600",
+            "weigh": [
+                {
+                    "weighValue": "300"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 6,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-25%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 7,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "коричневый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 8,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-10%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 9,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 10,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "редкий",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "all",
+            "id": 11,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "кристализированный",
+                "color": "желтый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "550"
+                }
+            ],
+            "oldPrice": "600",
+            "weigh": [
+                {
+                    "weighValue": "500"
+                }
+            ]
+        },
+        {
+            "type": "natural",
+            "id": 12,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "oldPrice": "600",
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                }
+            ]
+        },
+        {
+            "type": "natural",
+            "id": 13,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "кристализированный",
+                "color": "коричневый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-35%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "natural",
+            "id": 14,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "150"
+                },
+                {
+                    "price": "400"
+                },
+                {
+                    "price": "600"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "750"
+                }
+            ]
+        },
+        {
+            "type": "natural",
+            "id": 15,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "редкий",
+                "color": "желтый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "nuts",
+            "id": 16,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                }
+            ],
+            "oldPrice": "600",
+            "weigh": [
+                {
+                    "weighValue": "300"
+                }
+            ]
+        },
+        {
+            "type": "nuts",
+            "id": 17,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-25%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "nuts",
+            "id": 18,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "коричневый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "nuts",
+            "id": 19,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "редкий",
+                "color": "желтый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "cream",
+            "id": 20,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "редкий",
+                "color": "желтый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "cream",
+            "id": 21,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "густая",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "600"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "350"
+                },
+                {
+                    "weighValue": "600"
+                }
+            ]
+        },
+        {
+            "type": "cream",
+            "id": 22,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                }
+            ],
+            "oldPrice": "600",
+            "weigh": [
+                {
+                    "weighValue": "300"
+                }
+            ]
+        },
+        {
+            "type": "cream",
+            "id": 23,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-25%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "perga",
+            "id": 24,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-10%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "perga",
+            "id": 25,
+            "title": "Мед",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "perga",
+            "id": 26,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "редкий",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "stock",
+                    "value": "АКЦІЯ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "perga",
+            "id": 27,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-25%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "sets",
+            "id": 28,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                }
+            ],
+            "oldPrice": "600",
+            "weigh": [
+                {
+                    "weighValue": "300"
+                }
+            ]
+        },
+        {
+            "type": "sets",
+            "id": 29,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "белый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                },
+                {
+                    "type": "stock-value",
+                    "value": "-25%"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "350"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "sets",
+            "id": 30,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "рекомендуем",
+                "consistency": "кристализированный",
+                "color": "коричневый"
+            },
+            "labels": [
+                {
+                    "type": "recommend",
+                    "value": "РЕКОМЕНДУЄМ"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        },
+        {
+            "type": "sets",
+            "id": 31,
+            "title": "Мед із зародками пшениці “Богатир”",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "редкий",
+                "color": "желтый"
+            },
+            "labels": [
+                {
+                    "type": "new",
+                    "value": "новинка"
+                }
+            ],
+            "image": "product.png",
+            "prices": [
+                {
+                    "price": "250"
+                },
+                {
+                    "price": "500"
+                },
+                {
+                    "price": "700"
+                }
+            ],
+            "weigh": [
+                {
+                    "weighValue": "200"
+                },
+                {
+                    "weighValue": "450"
+                },
+                {
+                    "weighValue": "900"
+                }
+            ]
+        }
+    ],
+    "productsSlider": [
+        {
+            "type": "slider",
+            "id": 16,
+            "title": "Органічний мед",
+            "text": "Органічний мед в склінці",
+            "productUrl": "#",
+            "params": {
+                "sort": "новинка",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [],
+            "image": "slider-product.png",
+            "price": "500",
+            "weigh": "200"
+        },
+        {
+            "type": "slider",
+            "id": 17,
+            "title": "Органічний мед",
+            "text": "Органічний мед в склінці",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [],
+            "image": "slider-product.png",
+            "price": "300",
+            "weigh": "200"
+        },
+        {
+            "type": "slider",
+            "id": 18,
+            "title": "Органічний мед",
+            "text": "Органічний мед в склінці",
+            "productUrl": "#",
+            "params": {
+                "sort": "акции",
+                "consistency": "густая",
+                "color": "золотистый"
+            },
+            "labels": [],
+            "image": "slider-product.png",
+            "price": "950",
+            "weigh": "200"
+        }
+    ]
+}
